@@ -12,6 +12,8 @@
 #include "Timer.h"
 #include "BlinkLed.h"
 
+#include "Application.hpp"
+
 // ----------------------------------------------------------------------------
 //
 // Standalone STM32F1 led blink sample (trace via DEBUG).
@@ -40,16 +42,16 @@
 // so please adjust the PLL settings in system/src/cmsis/system_stm32f10x.c
 //
 
-// Definitions visible only within this translation unit.
-namespace
-{
-  // ----- Timing definitions -------------------------------------------------
-
-  // Keep the LED on for 2/3 of a second.
-  constexpr Timer::ticks_t BLINK_ON_TICKS = Timer::FREQUENCY_HZ * 3 / 4;
-  constexpr Timer::ticks_t BLINK_OFF_TICKS = Timer::FREQUENCY_HZ
-      - BLINK_ON_TICKS;
-}
+//// Definitions visible only within this translation unit.
+//namespace
+//{
+//  // ----- Timing definitions -------------------------------------------------
+//
+//  // Keep the LED on for 2/3 of a second.
+//  constexpr Timer::ticks_t BLINK_ON_TICKS = Timer::FREQUENCY_HZ * 3 / 4;
+//  constexpr Timer::ticks_t BLINK_OFF_TICKS = Timer::FREQUENCY_HZ
+//      - BLINK_ON_TICKS;
+//}
 
 // ----- main() ---------------------------------------------------------------
 
@@ -70,31 +72,33 @@ main(int argc, char* argv[])
   // at high speed.
   trace_printf("System clock: %u Hz\n", SystemCoreClock);
 
-  Timer timer;
-  timer.start();
-
-  BlinkLed blinkLed;
-
-  // Perform all necessary initialisations for the LED.
-  blinkLed.powerUp();
-
-  uint32_t seconds = 0;
-
-  // Infinite loop
-  while (1)
-    {
-      blinkLed.turnOn();
-      timer.sleep(seconds== 0 ? Timer::FREQUENCY_HZ : BLINK_ON_TICKS);
-
-      blinkLed.turnOff();
-      timer.sleep(BLINK_OFF_TICKS);
-
-      ++seconds;
-
-      // Count seconds on the trace device.
-      trace_printf("Second %u\n", seconds);
-    }
-  // Infinite loop, never return.
+  Application application;
+//
+//  Timer timer;
+//  timer.start();
+//
+//  BlinkLed blinkLed;
+//
+//  // Perform all necessary initialisations for the LED.
+//  blinkLed.powerUp();
+//
+//  uint32_t seconds = 0;
+//
+//  // Infinite loop
+//  while (1)
+//    {
+//      blinkLed.turnOn();
+//      timer.sleep(seconds== 0 ? Timer::FREQUENCY_HZ : BLINK_ON_TICKS);
+//
+//      blinkLed.turnOff();
+//      timer.sleep(BLINK_OFF_TICKS);
+//
+//      ++seconds;
+//
+//      // Count seconds on the trace device.
+//      trace_printf("Second %u\n", seconds);
+//    }
+//  // Infinite loop, never return.
 }
 
 #pragma GCC diagnostic pop

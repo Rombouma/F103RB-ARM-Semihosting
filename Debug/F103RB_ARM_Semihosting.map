@@ -1074,133 +1074,225 @@ Discarded input sections
  .bss           0x00000000        0x0 ./system/src/cmsis/vectors_stm32f10x.o
  .debug_macro   0x00000000      0x86e ./system/src/cmsis/vectors_stm32f10x.o
  .debug_macro   0x00000000      0x34e ./system/src/cmsis/vectors_stm32f10x.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/BlinkLed.o
- .text          0x00000000        0x0 ./src/BlinkLed.o
- .data          0x00000000        0x0 ./src/BlinkLed.o
- .bss           0x00000000        0x0 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x880 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x50 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x34e ./src/BlinkLed.o
- .debug_macro   0x00000000       0x35 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x34 ./src/BlinkLed.o
- .debug_macro   0x00000000     0x7dbe ./src/BlinkLed.o
- .debug_macro   0x00000000      0x2e4 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x144 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x3cf ./src/BlinkLed.o
- .debug_macro   0x00000000       0xc8 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x17a ./src/BlinkLed.o
- .debug_macro   0x00000000       0xac ./src/BlinkLed.o
- .debug_macro   0x00000000      0x3ad ./src/BlinkLed.o
- .debug_macro   0x00000000       0x9d ./src/BlinkLed.o
- .debug_macro   0x00000000      0x2cf ./src/BlinkLed.o
- .debug_macro   0x00000000      0x279 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x2ac ./src/BlinkLed.o
- .debug_macro   0x00000000      0x2b4 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x64 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x82 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x3e2 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x58 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x344 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x2c4 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x711 ./src/BlinkLed.o
- .debug_macro   0x00000000      0x222 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x34 ./src/BlinkLed.o
- .debug_macro   0x00000000       0x8b ./src/BlinkLed.o
- .debug_macro   0x00000000       0x35 ./src/BlinkLed.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .group         0x00000000        0x8 ./src/Timer.o
- .text          0x00000000        0x0 ./src/Timer.o
- .data          0x00000000        0x0 ./src/Timer.o
- .bss           0x00000000        0x0 ./src/Timer.o
- .debug_macro   0x00000000      0x880 ./src/Timer.o
- .debug_macro   0x00000000       0x50 ./src/Timer.o
- .debug_macro   0x00000000      0x34e ./src/Timer.o
- .debug_macro   0x00000000       0x35 ./src/Timer.o
- .debug_macro   0x00000000       0x34 ./src/Timer.o
- .debug_macro   0x00000000      0xb8e ./src/Timer.o
- .debug_macro   0x00000000     0x7dbe ./src/Timer.o
- .debug_macro   0x00000000      0x2e4 ./src/Timer.o
- .debug_macro   0x00000000      0x144 ./src/Timer.o
- .debug_macro   0x00000000      0x3cf ./src/Timer.o
- .debug_macro   0x00000000       0xc8 ./src/Timer.o
- .debug_macro   0x00000000      0x17a ./src/Timer.o
- .debug_macro   0x00000000       0xac ./src/Timer.o
- .debug_macro   0x00000000      0x3ad ./src/Timer.o
- .debug_macro   0x00000000       0x9d ./src/Timer.o
- .debug_macro   0x00000000      0x2cf ./src/Timer.o
- .debug_macro   0x00000000      0x279 ./src/Timer.o
- .debug_macro   0x00000000      0x2ac ./src/Timer.o
- .debug_macro   0x00000000      0x2b4 ./src/Timer.o
- .debug_macro   0x00000000       0x64 ./src/Timer.o
- .debug_macro   0x00000000       0x82 ./src/Timer.o
- .debug_macro   0x00000000      0x3e2 ./src/Timer.o
- .debug_macro   0x00000000       0x58 ./src/Timer.o
- .debug_macro   0x00000000      0x344 ./src/Timer.o
- .debug_macro   0x00000000      0x2c4 ./src/Timer.o
- .debug_macro   0x00000000      0x711 ./src/Timer.o
- .debug_macro   0x00000000      0x222 ./src/Timer.o
- .debug_macro   0x00000000       0x34 ./src/Timer.o
- .debug_macro   0x00000000       0x8b ./src/Timer.o
- .debug_macro   0x00000000       0x35 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/BlinkLed.o
+ .text          0x00000000        0x0 ./src/Application/BlinkLed.o
+ .data          0x00000000        0x0 ./src/Application/BlinkLed.o
+ .bss           0x00000000        0x0 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x880 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x50 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x34e ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x35 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x34 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000     0x7dbe ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x2e4 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x144 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x3cf ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0xc8 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x17a ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0xac ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x3ad ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x9d ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x2cf ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x279 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x2ac ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x2b4 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x64 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x82 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x3e2 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x58 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x344 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x2c4 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x711 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000      0x222 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x34 ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x8b ./src/Application/BlinkLed.o
+ .debug_macro   0x00000000       0x35 ./src/Application/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application/Timer.o
+ .text          0x00000000        0x0 ./src/Application/Timer.o
+ .data          0x00000000        0x0 ./src/Application/Timer.o
+ .bss           0x00000000        0x0 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x880 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x50 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x34e ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x35 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x34 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0xb8e ./src/Application/Timer.o
+ .debug_macro   0x00000000     0x7dbe ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x2e4 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x144 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x3cf ./src/Application/Timer.o
+ .debug_macro   0x00000000       0xc8 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x17a ./src/Application/Timer.o
+ .debug_macro   0x00000000       0xac ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x3ad ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x9d ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x2cf ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x279 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x2ac ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x2b4 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x64 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x82 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x3e2 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x58 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x344 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x2c4 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x711 ./src/Application/Timer.o
+ .debug_macro   0x00000000      0x222 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x34 ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x8b ./src/Application/Timer.o
+ .debug_macro   0x00000000       0x35 ./src/Application/Timer.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .group         0x00000000        0x8 ./src/Application.o
+ .text          0x00000000        0x0 ./src/Application.o
+ .data          0x00000000        0x0 ./src/Application.o
+ .bss           0x00000000        0x0 ./src/Application.o
+ .debug_macro   0x00000000      0x880 ./src/Application.o
+ .debug_macro   0x00000000       0x50 ./src/Application.o
+ .debug_macro   0x00000000      0x34e ./src/Application.o
+ .debug_macro   0x00000000       0x35 ./src/Application.o
+ .debug_macro   0x00000000       0x34 ./src/Application.o
+ .debug_macro   0x00000000      0xb8e ./src/Application.o
+ .debug_macro   0x00000000     0x7dbe ./src/Application.o
+ .debug_macro   0x00000000      0x2e4 ./src/Application.o
+ .debug_macro   0x00000000      0x144 ./src/Application.o
+ .debug_macro   0x00000000      0x3cf ./src/Application.o
+ .debug_macro   0x00000000       0xc8 ./src/Application.o
+ .debug_macro   0x00000000      0x17a ./src/Application.o
+ .debug_macro   0x00000000       0xac ./src/Application.o
+ .debug_macro   0x00000000      0x3ad ./src/Application.o
+ .debug_macro   0x00000000       0x9d ./src/Application.o
+ .debug_macro   0x00000000      0x2cf ./src/Application.o
+ .debug_macro   0x00000000      0x279 ./src/Application.o
+ .debug_macro   0x00000000      0x2ac ./src/Application.o
+ .debug_macro   0x00000000      0x2b4 ./src/Application.o
+ .debug_macro   0x00000000       0x64 ./src/Application.o
+ .debug_macro   0x00000000       0x82 ./src/Application.o
+ .debug_macro   0x00000000      0x3e2 ./src/Application.o
+ .debug_macro   0x00000000       0x58 ./src/Application.o
+ .debug_macro   0x00000000      0x344 ./src/Application.o
+ .debug_macro   0x00000000      0x2c4 ./src/Application.o
+ .debug_macro   0x00000000      0x711 ./src/Application.o
+ .debug_macro   0x00000000      0x222 ./src/Application.o
+ .debug_macro   0x00000000       0x34 ./src/Application.o
+ .debug_macro   0x00000000       0x8b ./src/Application.o
+ .debug_macro   0x00000000       0x35 ./src/Application.o
+ .debug_macro   0x00000000       0x28 ./src/Application.o
+ .debug_macro   0x00000000       0x58 ./src/Application.o
+ .debug_macro   0x00000000       0x16 ./src/Application.o
+ .debug_macro   0x00000000       0x35 ./src/Application.o
+ .debug_macro   0x00000000       0xa3 ./src/Application.o
+ .debug_macro   0x00000000       0x4a ./src/Application.o
+ .debug_macro   0x00000000       0x52 ./src/Application.o
+ .debug_macro   0x00000000       0x16 ./src/Application.o
+ .debug_macro   0x00000000       0x19 ./src/Application.o
+ .debug_macro   0x00000000       0x22 ./src/Application.o
+ .debug_macro   0x00000000       0xbd ./src/Application.o
+ .debug_macro   0x00000000       0x10 ./src/Application.o
+ .debug_macro   0x00000000       0x35 ./src/Application.o
+ .debug_macro   0x00000000      0x48e ./src/Application.o
  .group         0x00000000        0x8 ./src/_write.o
  .text          0x00000000        0x0 ./src/_write.o
  .data          0x00000000        0x0 ./src/_write.o
@@ -1405,8 +1497,9 @@ LOAD ./system/src/cortexm/_reset_hardware.o
 LOAD ./system/src/cortexm/exception_handlers.o
 LOAD ./system/src/cmsis/system_stm32f10x.o
 LOAD ./system/src/cmsis/vectors_stm32f10x.o
-LOAD ./src/BlinkLed.o
-LOAD ./src/Timer.o
+LOAD ./src/Application/BlinkLed.o
+LOAD ./src/Application/Timer.o
+LOAD ./src/Application.o
 LOAD ./src/_write.o
 LOAD ./src/main.o
 LOAD c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libstdc++_s.a
@@ -1548,10 +1641,10 @@ END GROUP
 
 .inits          0x08000350       0x28
                 0x08000350                __data_regions_array_start = .
-                0x08000350        0x4 LONG 0x80015d8 LOADADDR (.data)
+                0x08000350        0x4 LONG 0x80015e8 LOADADDR (.data)
                 0x08000354        0x4 LONG 0x20000000 ADDR (.data)
                 0x08000358        0x4 LONG 0x20000088 (ADDR (.data) + SIZEOF (.data))
-                0x0800035c        0x4 LONG 0x80015d8 LOADADDR (.data_CCMRAM)
+                0x0800035c        0x4 LONG 0x80015e8 LOADADDR (.data_CCMRAM)
                 0x08000360        0x4 LONG 0x0 ADDR (.data_CCMRAM)
                 0x08000364        0x4 LONG 0x0 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
                 0x08000368                __data_regions_array_end = .
@@ -1583,7 +1676,7 @@ END GROUP
 .flashtext
  *(.flashtext .flashtext.*)
 
-.text           0x08000378     0x125d
+.text           0x08000378     0x126d
  *(.text .text.*)
  .text.GPIO_Init
                 0x08000378      0x12c ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
@@ -1643,91 +1736,99 @@ END GROUP
                 0x08000940       0x94 ./system/src/cmsis/system_stm32f10x.o
                 0x08000940                SystemCoreClockUpdate
  .text._ZN8BlinkLed7powerUpEv
-                0x080009d4       0x3c ./src/BlinkLed.o
+                0x080009d4       0x38 ./src/Application/BlinkLed.o
                 0x080009d4                BlinkLed::powerUp()
  .text._ZN5Timer5sleepEm
-                0x08000a10       0x14 ./src/Timer.o
-                0x08000a10                Timer::sleep(unsigned long)
+                0x08000a0c       0x14 ./src/Application/Timer.o
+                0x08000a0c                Timer::sleep(unsigned long)
  .text.SysTick_Handler
-                0x08000a24       0x14 ./src/Timer.o
-                0x08000a24                SysTick_Handler
- .text.main     0x08000a38       0x98 ./src/main.o
-                0x08000a38                main
- .text.__errno  0x08000ad0        0xc c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
-                0x08000ad0                __errno
- .text.strlen   0x08000adc       0x10 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
-                0x08000adc                strlen
+                0x08000a20       0x14 ./src/Application/Timer.o
+                0x08000a20                SysTick_Handler
+ .text._ZN11ApplicationC2Ev
+                0x08000a34       0x80 ./src/Application.o
+                0x08000a34                Application::Application()
+                0x08000a34                Application::Application()
+ .text.main     0x08000ab4       0x2c ./src/main.o
+                0x08000ab4                main
+ .text.__errno  0x08000ae0        0xc c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+                0x08000ae0                __errno
+ .text.strlen   0x08000aec       0x10 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+                0x08000aec                strlen
  .text._vsnprintf_r
-                0x08000aec       0x52 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
-                0x08000aec                _vsniprintf_r
-                0x08000aec                _vsnprintf_r
- *fill*         0x08000b3e        0x2 
+                0x08000afc       0x52 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
+                0x08000afc                _vsniprintf_r
+                0x08000afc                _vsnprintf_r
+ *fill*         0x08000b4e        0x2 
  .text.vsnprintf
-                0x08000b40       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
-                0x08000b40                vsniprintf
-                0x08000b40                vsnprintf
+                0x08000b50       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
+                0x08000b50                vsniprintf
+                0x08000b50                vsnprintf
  .text.__ssputs_r
-                0x08000b60       0xb8 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
-                0x08000b60                __ssputs_r
+                0x08000b70       0xb8 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
+                0x08000b70                __ssputs_r
  .text._svfprintf_r
-                0x08000c18      0x1d8 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
-                0x08000c18                _svfiprintf_r
-                0x08000c18                _svfprintf_r
+                0x08000c28      0x1d8 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
+                0x08000c28                _svfiprintf_r
+                0x08000c28                _svfprintf_r
  .text._printf_common
-                0x08000df0       0xe4 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
-                0x08000df0                _printf_common
+                0x08000e00       0xe4 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
+                0x08000e00                _printf_common
  .text._printf_i
-                0x08000ed4      0x228 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
-                0x08000ed4                _printf_i
- .text.memchr   0x080010fc       0x1c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memchr-stub.o)
-                0x080010fc                memchr
- .text.memcpy   0x08001118       0x12 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
-                0x08001118                memcpy
- .text.memmove  0x0800112a       0x36 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memmove.o)
-                0x0800112a                memmove
- .text._free_r  0x08001160       0x88 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-freer.o)
-                0x08001160                _free_r
+                0x08000ee4      0x228 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
+                0x08000ee4                _printf_i
+ .text.memchr   0x0800110c       0x1c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memchr-stub.o)
+                0x0800110c                memchr
+ .text.memcpy   0x08001128       0x12 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+                0x08001128                memcpy
+ .text.memmove  0x0800113a       0x36 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memmove.o)
+                0x0800113a                memmove
+ .text._free_r  0x08001170       0x88 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-freer.o)
+                0x08001170                _free_r
  .text._malloc_r
-                0x080011e8       0xa8 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
-                0x080011e8                _malloc_r
+                0x080011f8       0xa8 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
+                0x080011f8                _malloc_r
  .text._realloc_r
-                0x08001290       0x4c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-reallocr.o)
-                0x08001290                _realloc_r
- .text._sbrk_r  0x080012dc       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-sbrkr.o)
-                0x080012dc                _sbrk_r
+                0x080012a0       0x4c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-reallocr.o)
+                0x080012a0                _realloc_r
+ .text._sbrk_r  0x080012ec       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-sbrkr.o)
+                0x080012ec                _sbrk_r
  .text._malloc_usable_size_r
-                0x080012fc       0x12 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-msizer.o)
-                0x080012fc                _malloc_usable_size_r
+                0x0800130c       0x12 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-msizer.o)
+                0x0800130c                _malloc_usable_size_r
  *(.rodata .rodata.* .constdata .constdata.*)
- *fill*         0x0800130e        0x2 
+ *fill*         0x0800131e        0x2 
  .rodata.str1.4
-                0x08001310       0x31 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
+                0x08001320       0x31 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
                                  0x34 (size before relaxing)
- *fill*         0x08001341        0x3 
+ *fill*         0x08001351        0x3 
  .rodata.str1.4
-                0x08001344       0x30 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
+                0x08001354       0x30 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
  .rodata.str1.4
-                0x08001374       0x14 ./system/src/newlib/_exit.o
+                0x08001384       0x14 ./system/src/newlib/_exit.o
  .rodata.str1.4
-                0x08001388       0x6b ./system/src/newlib/assert.o
+                0x08001398       0x6b ./system/src/newlib/assert.o
                                  0x70 (size before relaxing)
- *fill*         0x080013f3        0x1 
+ *fill*         0x08001403        0x1 
  .rodata.str1.4
-                0x080013f4       0x29 ./system/src/diag/Trace.o
+                0x08001404       0x29 ./system/src/diag/Trace.o
                                  0x30 (size before relaxing)
- *fill*         0x0800141d        0x3 
+ *fill*         0x0800142d        0x3 
  .rodata.str1.4
-                0x08001420      0x146 ./system/src/cortexm/exception_handlers.o
+                0x08001430      0x146 ./system/src/cortexm/exception_handlers.o
                                 0x148 (size before relaxing)
- *fill*         0x08001566        0x2 
+ *fill*         0x08001576        0x2 
  .rodata.str1.4
-                0x08001568       0x38 ./src/main.o
+                0x08001578        0xb ./src/Application.o
+                                  0xc (size before relaxing)
+ *fill*         0x08001583        0x1 
+ .rodata.str1.4
+                0x08001584       0x2c ./src/main.o
  .rodata.str1.1
-                0x080015a0        0x2 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+                0x080015b0        0x2 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
  .rodata.str1.1
-                0x080015a2       0x11 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
+                0x080015b2       0x11 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
  .rodata.str1.1
-                0x080015b3       0x22 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
+                0x080015c3       0x22 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
  *(vtable)
  *(.eh_frame*)
  *(.glue_7)
@@ -1735,37 +1836,37 @@ END GROUP
  *(.glue_7t)
  .glue_7t       0x00000000        0x0 linker stubs
 
-.vfp11_veneer   0x080015d8        0x0
+.vfp11_veneer   0x080015e8        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x080015d8        0x0
+.v4_bx          0x080015e8        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x080015d8        0x0
+.iplt           0x080015e8        0x0
  .iplt          0x00000000        0x0 ./system/src/stm32f1-stdperiph/misc.o
 
-.rel.dyn        0x080015d8        0x0
+.rel.dyn        0x080015e8        0x0
  .rel.iplt      0x00000000        0x0 ./system/src/stm32f1-stdperiph/misc.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x080015d8                . = ALIGN (0x4)
-                0x080015d8                __exidx_start = .
+                0x080015e8                . = ALIGN (0x4)
+                0x080015e8                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x080015d8                __exidx_end = .
-                0x080015d8                . = ALIGN (0x4)
-                0x080015d8                _etext = .
-                0x080015d8                __etext = .
+                0x080015e8                __exidx_end = .
+                0x080015e8                . = ALIGN (0x4)
+                0x080015e8                _etext = .
+                0x080015e8                __etext = .
 
-.data_CCMRAM    0x00000000        0x0 load address 0x080015d8
+.data_CCMRAM    0x00000000        0x0 load address 0x080015e8
  FILL mask 0xff
  *(.data.CCMRAM .data.CCMRAM.*)
                 0x00000000                . = ALIGN (0x4)
-                0x080015d8                _sidata = LOADADDR (.data)
+                0x080015e8                _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x88 load address 0x080015d8
+.data           0x20000000       0x88 load address 0x080015e8
  FILL mask 0xff
                 0x20000000                _sdata = .
                 0x20000000                __data_start__ = .
@@ -1791,7 +1892,7 @@ END GROUP
                 0x20000088                _edata = .
                 0x20000088                __data_end__ = .
 
-.igot.plt       0x20000088        0x0 load address 0x08001660
+.igot.plt       0x20000088        0x0 load address 0x08001670
  .igot.plt      0x00000000        0x0 ./system/src/stm32f1-stdperiph/misc.o
 
 .bss_CCMRAM     0x00000000        0x0
@@ -1809,7 +1910,7 @@ END GROUP
                 0x20000090        0x4 ./system/src/newlib/_syscalls.o
  .bss.buf.4905  0x20000094       0x80 ./system/src/diag/Trace.o
  .bss._ZN5Timer13ms_delayCountE
-                0x20000114        0x4 ./src/Timer.o
+                0x20000114        0x4 ./src/Application/Timer.o
                 0x20000114                Timer::ms_delayCount
  .bss.__malloc_sbrk_start
                 0x20000118        0x4 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
@@ -1902,8 +2003,9 @@ END GROUP
  .comment       0x00000000       0x71 ./system/src/cortexm/exception_handlers.o
  .comment       0x00000000       0x71 ./system/src/cmsis/system_stm32f10x.o
  .comment       0x00000000       0x71 ./system/src/cmsis/vectors_stm32f10x.o
- .comment       0x00000000       0x71 ./src/BlinkLed.o
- .comment       0x00000000       0x71 ./src/Timer.o
+ .comment       0x00000000       0x71 ./src/Application/BlinkLed.o
+ .comment       0x00000000       0x71 ./src/Application/Timer.o
+ .comment       0x00000000       0x71 ./src/Application.o
  .comment       0x00000000       0x71 ./src/main.o
 
 .ARM.attributes
@@ -1935,39 +2037,41 @@ END GROUP
  .ARM.attributes
                 0x00000264       0x33 ./system/src/cmsis/vectors_stm32f10x.o
  .ARM.attributes
-                0x00000297       0x33 ./src/BlinkLed.o
+                0x00000297       0x33 ./src/Application/BlinkLed.o
  .ARM.attributes
-                0x000002ca       0x33 ./src/Timer.o
+                0x000002ca       0x33 ./src/Application/Timer.o
  .ARM.attributes
-                0x000002fd       0x33 ./src/main.o
+                0x000002fd       0x33 ./src/Application.o
  .ARM.attributes
-                0x00000330       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+                0x00000330       0x33 ./src/main.o
  .ARM.attributes
-                0x0000035d       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+                0x00000363       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
  .ARM.attributes
-                0x0000038a       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+                0x00000390       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
  .ARM.attributes
-                0x000003b7       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
+                0x000003bd       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
  .ARM.attributes
-                0x000003e4       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
+                0x000003ea       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
  .ARM.attributes
-                0x00000411       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
+                0x00000417       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
  .ARM.attributes
-                0x0000043e       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memchr-stub.o)
+                0x00000444       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
  .ARM.attributes
-                0x0000046b       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+                0x00000471       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memchr-stub.o)
  .ARM.attributes
-                0x00000498       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memmove.o)
+                0x0000049e       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x000004c5       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-freer.o)
+                0x000004cb       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memmove.o)
  .ARM.attributes
-                0x000004f2       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
+                0x000004f8       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-freer.o)
  .ARM.attributes
-                0x0000051f       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-reallocr.o)
+                0x00000525       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
  .ARM.attributes
-                0x0000054c       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-sbrkr.o)
+                0x00000552       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-reallocr.o)
  .ARM.attributes
-                0x00000579       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-msizer.o)
+                0x0000057f       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000005ac       0x2d c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-msizer.o)
 
 .debug
  *(.debug)
@@ -1981,7 +2085,7 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x480
+.debug_aranges  0x00000000      0x4a0
  *(.debug_aranges)
  .debug_aranges
                 0x00000000       0xa8 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
@@ -2010,16 +2114,18 @@ END GROUP
  .debug_aranges
                 0x000003f8       0x20 ./system/src/cmsis/vectors_stm32f10x.o
  .debug_aranges
-                0x00000418       0x20 ./src/BlinkLed.o
+                0x00000418       0x20 ./src/Application/BlinkLed.o
  .debug_aranges
-                0x00000438       0x28 ./src/Timer.o
+                0x00000438       0x28 ./src/Application/Timer.o
  .debug_aranges
-                0x00000460       0x20 ./src/main.o
+                0x00000460       0x20 ./src/Application.o
+ .debug_aranges
+                0x00000480       0x20 ./src/main.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x47e7
+.debug_info     0x00000000     0x498d
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0xbd4 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_info    0x00000bd4      0xc6b ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -2034,11 +2140,12 @@ END GROUP
  .debug_info    0x00002b0e      0x8cd ./system/src/cortexm/exception_handlers.o
  .debug_info    0x000033db      0x474 ./system/src/cmsis/system_stm32f10x.o
  .debug_info    0x0000384f       0xd1 ./system/src/cmsis/vectors_stm32f10x.o
- .debug_info    0x00003920      0x37e ./src/BlinkLed.o
- .debug_info    0x00003c9e      0x1a0 ./src/Timer.o
- .debug_info    0x00003e3e      0x9a9 ./src/main.o
+ .debug_info    0x00003920      0x37e ./src/Application/BlinkLed.o
+ .debug_info    0x00003c9e      0x1a0 ./src/Application/Timer.o
+ .debug_info    0x00003e3e      0x9a2 ./src/Application.o
+ .debug_info    0x000047e0      0x1ad ./src/main.o
 
-.debug_abbrev   0x00000000     0x1815
+.debug_abbrev   0x00000000     0x1951
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x1f9 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_abbrev  0x000001f9      0x1ff ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -2053,11 +2160,12 @@ END GROUP
  .debug_abbrev  0x00000d16      0x23e ./system/src/cortexm/exception_handlers.o
  .debug_abbrev  0x00000f54      0x157 ./system/src/cmsis/system_stm32f10x.o
  .debug_abbrev  0x000010ab       0x9d ./system/src/cmsis/vectors_stm32f10x.o
- .debug_abbrev  0x00001148      0x1e7 ./src/BlinkLed.o
- .debug_abbrev  0x0000132f      0x181 ./src/Timer.o
- .debug_abbrev  0x000014b0      0x365 ./src/main.o
+ .debug_abbrev  0x00001148      0x1e7 ./src/Application/BlinkLed.o
+ .debug_abbrev  0x0000132f      0x181 ./src/Application/Timer.o
+ .debug_abbrev  0x000014b0      0x367 ./src/Application.o
+ .debug_abbrev  0x00001817      0x13a ./src/main.o
 
-.debug_line     0x00000000     0x3ca1
+.debug_line     0x00000000     0x423d
  *(.debug_line)
  .debug_line    0x00000000      0x5d4 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_line    0x000005d4      0x6ff ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -2072,11 +2180,12 @@ END GROUP
  .debug_line    0x0000257d      0x644 ./system/src/cortexm/exception_handlers.o
  .debug_line    0x00002bc1      0x3b8 ./system/src/cmsis/system_stm32f10x.o
  .debug_line    0x00002f79       0xef ./system/src/cmsis/vectors_stm32f10x.o
- .debug_line    0x00003068      0x33e ./src/BlinkLed.o
- .debug_line    0x000033a6      0x386 ./src/Timer.o
- .debug_line    0x0000372c      0x575 ./src/main.o
+ .debug_line    0x00003068      0x34a ./src/Application/BlinkLed.o
+ .debug_line    0x000033b2      0x392 ./src/Application/Timer.o
+ .debug_line    0x00003744      0x578 ./src/Application.o
+ .debug_line    0x00003cbc      0x581 ./src/main.o
 
-.debug_frame    0x00000000      0xca8
+.debug_frame    0x00000000      0xcd0
  *(.debug_frame)
  .debug_frame   0x00000000      0x1e8 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_frame   0x000001e8      0x314 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -2091,24 +2200,25 @@ END GROUP
  .debug_frame   0x00000784      0x154 ./system/src/cortexm/exception_handlers.o
  .debug_frame   0x000008d8       0x64 ./system/src/cmsis/system_stm32f10x.o
  .debug_frame   0x0000093c       0x20 ./system/src/cmsis/vectors_stm32f10x.o
- .debug_frame   0x0000095c       0x2c ./src/BlinkLed.o
- .debug_frame   0x00000988       0x30 ./src/Timer.o
- .debug_frame   0x000009b8       0x2c ./src/main.o
- .debug_frame   0x000009e4       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
- .debug_frame   0x00000a04       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
- .debug_frame   0x00000a24       0x4c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
- .debug_frame   0x00000a70       0x88 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
- .debug_frame   0x00000af8       0x60 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
- .debug_frame   0x00000b58       0x28 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memchr-stub.o)
- .debug_frame   0x00000b80       0x28 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
- .debug_frame   0x00000ba8       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memmove.o)
- .debug_frame   0x00000bd4       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-freer.o)
- .debug_frame   0x00000c00       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
- .debug_frame   0x00000c2c       0x30 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-reallocr.o)
- .debug_frame   0x00000c5c       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-sbrkr.o)
- .debug_frame   0x00000c88       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000095c       0x2c ./src/Application/BlinkLed.o
+ .debug_frame   0x00000988       0x30 ./src/Application/Timer.o
+ .debug_frame   0x000009b8       0x2c ./src/Application.o
+ .debug_frame   0x000009e4       0x28 ./src/main.o
+ .debug_frame   0x00000a0c       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+ .debug_frame   0x00000a2c       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-strlen.o)
+ .debug_frame   0x00000a4c       0x4c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00000a98       0x88 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000b20       0x60 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-vfprintf_i.o)
+ .debug_frame   0x00000b80       0x28 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00000ba8       0x28 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000bd0       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memmove.o)
+ .debug_frame   0x00000bfc       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000c28       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000c54       0x30 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000c84       0x2c c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000cb0       0x20 c:/stm32toolchain/gnu-arm/4.8-2014q3/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-nano-msizer.o)
 
-.debug_str      0x00000000    0x55367
+.debug_str      0x00000000    0x553d3
  *(.debug_str)
  .debug_str     0x00000000    0x4e2bf ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
                               0x4e483 (size before relaxing)
@@ -2136,14 +2246,16 @@ END GROUP
                               0x4e017 (size before relaxing)
  .debug_str     0x000549cb       0x57 ./system/src/cmsis/vectors_stm32f10x.o
                                0x2fbc (size before relaxing)
- .debug_str     0x00054a22      0x468 ./src/BlinkLed.o
-                              0x4e22a (size before relaxing)
- .debug_str     0x00054e8a       0xa4 ./src/Timer.o
-                              0x4e007 (size before relaxing)
- .debug_str     0x00054f2e      0x439 ./src/main.o
-                              0x51713 (size before relaxing)
+ .debug_str     0x00054a22      0x473 ./src/Application/BlinkLed.o
+                              0x4e235 (size before relaxing)
+ .debug_str     0x00054e95       0xb0 ./src/Application/Timer.o
+                              0x4e013 (size before relaxing)
+ .debug_str     0x00054f45      0x472 ./src/Application.o
+                              0x502e1 (size before relaxing)
+ .debug_str     0x000553b7       0x1c ./src/main.o
+                              0x511df (size before relaxing)
 
-.debug_loc      0x00000000     0x1c7b
+.debug_loc      0x00000000     0x1c9c
  *(.debug_loc)
  .debug_loc     0x00000000      0x7ac ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_loc     0x000007ac      0x9c0 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -2155,8 +2267,9 @@ END GROUP
  .debug_loc     0x00001698      0x17c ./system/src/diag/trace_impl.o
  .debug_loc     0x00001814      0x2a8 ./system/src/cortexm/exception_handlers.o
  .debug_loc     0x00001abc       0xe4 ./system/src/cmsis/system_stm32f10x.o
- .debug_loc     0x00001ba0       0x21 ./src/BlinkLed.o
- .debug_loc     0x00001bc1       0xba ./src/main.o
+ .debug_loc     0x00001ba0       0x21 ./src/Application/BlinkLed.o
+ .debug_loc     0x00001bc1       0x99 ./src/Application.o
+ .debug_loc     0x00001c5a       0x42 ./src/main.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -2174,7 +2287,7 @@ END GROUP
  *(.debug_varnames)
 OUTPUT(F103RB_ARM_Semihosting.elf elf32-littlearm)
 
-.debug_ranges   0x00000000      0x3c8
+.debug_ranges   0x00000000      0x3d8
  .debug_ranges  0x00000000       0x98 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_ranges  0x00000098      0x108 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
  .debug_ranges  0x000001a0       0x18 ./system/src/newlib/_exit.o
@@ -2188,11 +2301,12 @@ OUTPUT(F103RB_ARM_Semihosting.elf elf32-littlearm)
  .debug_ranges  0x000002c0       0x98 ./system/src/cortexm/exception_handlers.o
  .debug_ranges  0x00000358       0x28 ./system/src/cmsis/system_stm32f10x.o
  .debug_ranges  0x00000380       0x10 ./system/src/cmsis/vectors_stm32f10x.o
- .debug_ranges  0x00000390       0x10 ./src/BlinkLed.o
- .debug_ranges  0x000003a0       0x18 ./src/Timer.o
- .debug_ranges  0x000003b8       0x10 ./src/main.o
+ .debug_ranges  0x00000390       0x10 ./src/Application/BlinkLed.o
+ .debug_ranges  0x000003a0       0x18 ./src/Application/Timer.o
+ .debug_ranges  0x000003b8       0x10 ./src/Application.o
+ .debug_ranges  0x000003c8       0x10 ./src/main.o
 
-.debug_macro    0x00000000     0x3eb2
+.debug_macro    0x00000000     0x428c
  .debug_macro   0x00000000      0x1b9 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_macro   0x000001b9       0x8b ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_macro   0x00000244      0x2a6 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
@@ -2243,12 +2357,14 @@ OUTPUT(F103RB_ARM_Semihosting.elf elf32-littlearm)
  .debug_macro   0x000029a8       0x3b ./system/src/cortexm/exception_handlers.o
  .debug_macro   0x000029e3      0x16e ./system/src/cmsis/system_stm32f10x.o
  .debug_macro   0x00002b51       0x34 ./system/src/cmsis/vectors_stm32f10x.o
- .debug_macro   0x00002b85      0x170 ./src/BlinkLed.o
- .debug_macro   0x00002cf5      0xb8e ./src/BlinkLed.o
- .debug_macro   0x00003883       0x28 ./src/BlinkLed.o
- .debug_macro   0x000038ab      0x17e ./src/Timer.o
- .debug_macro   0x00003a29       0x10 ./src/Timer.o
- .debug_macro   0x00003a39      0x2b7 ./src/main.o
- .debug_macro   0x00003cf0       0x97 ./src/main.o
- .debug_macro   0x00003d87       0xfd ./src/main.o
- .debug_macro   0x00003e84       0x2e ./src/main.o
+ .debug_macro   0x00002b85      0x170 ./src/Application/BlinkLed.o
+ .debug_macro   0x00002cf5      0xb8e ./src/Application/BlinkLed.o
+ .debug_macro   0x00003883       0x28 ./src/Application/BlinkLed.o
+ .debug_macro   0x000038ab      0x17e ./src/Application/Timer.o
+ .debug_macro   0x00003a29       0x10 ./src/Application/Timer.o
+ .debug_macro   0x00003a39      0x25c ./src/Application.o
+ .debug_macro   0x00003c95      0x174 ./src/Application.o
+ .debug_macro   0x00003e09      0x2c1 ./src/main.o
+ .debug_macro   0x000040ca       0x97 ./src/main.o
+ .debug_macro   0x00004161       0xfd ./src/main.o
+ .debug_macro   0x0000425e       0x2e ./src/main.o

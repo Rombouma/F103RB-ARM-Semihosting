@@ -1,5 +1,6 @@
 src/main.o: ../src/main.cpp ../system/include/diag/Trace.h \
- ../include/Timer.h ../system/include/cmsis/cmsis_device.h \
+ C:\STM32Toolchain\projects\F103RB_ARM_Semihosting\src\Application/Timer.h \
+ ../system/include/cmsis/cmsis_device.h \
  ../system/include/cmsis/stm32f10x.h ../system/include/cmsis/core_cm3.h \
  ../system/include/cmsis/core_cmInstr.h \
  ../system/include/cmsis/cmsis_gcc.h \
@@ -28,11 +29,13 @@ src/main.o: ../src/main.cpp ../system/include/diag/Trace.h \
  ../system/include/stm32f1-stdperiph/stm32f10x_tim.h \
  ../system/include/stm32f1-stdperiph/stm32f10x_usart.h \
  ../system/include/stm32f1-stdperiph/stm32f10x_wwdg.h \
- ../system/include/stm32f1-stdperiph/misc.h ../include/BlinkLed.h
+ ../system/include/stm32f1-stdperiph/misc.h \
+ C:\STM32Toolchain\projects\F103RB_ARM_Semihosting\src\Application/BlinkLed.h \
+ ../src/Application.hpp
 
 ../system/include/diag/Trace.h:
 
-../include/Timer.h:
+C:\STM32Toolchain\projects\F103RB_ARM_Semihosting\src\Application/Timer.h:
 
 ../system/include/cmsis/cmsis_device.h:
 
@@ -98,4 +101,6 @@ src/main.o: ../src/main.cpp ../system/include/diag/Trace.h \
 
 ../system/include/stm32f1-stdperiph/misc.h:
 
-../include/BlinkLed.h:
+C:\STM32Toolchain\projects\F103RB_ARM_Semihosting\src\Application/BlinkLed.h:
+
+../src/Application.hpp:
